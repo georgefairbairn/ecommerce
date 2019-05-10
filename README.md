@@ -1,4 +1,4 @@
-
+[![Build Status](https://travis-ci.org/neon-flights/ecommerce.svg?branch=master)](https://travis-ci.org/neon-flights/ecommerce)
      ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
     '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
     |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
